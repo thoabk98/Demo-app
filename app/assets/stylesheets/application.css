@@ -14,18 +14,34 @@
  *= require_self
  */
 
-body { padding-top: 0px; 
-background: OldLace;
-}
-footer { margin-top: 100px; }
-table, td, th { vertical-align: middle; border: none; }
-th { border-bottom: 1px solid #DDD; }
-.avatar
-{
-    width: 20px; 
+body {
+    padding-top: 0px;
+    background: OldLace;
 }
 
-.color
-{
-    background: #66FFFF !important;
+footer {
+    margin-top: 100px;
+}
+
+table,
+td,
+th {
+    vertical-align: middle;
+    border: none;
+}
+
+th {
+    border-bottom: 1px solid #DDD;
+}
+
+.avatar {
+    width: 20px;
+}
+
+.color {
+    background: #e88888 !important;
+}
+
+.text {
+    color: white !important;
 }
